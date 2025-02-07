@@ -1,4 +1,40 @@
-# TAIA Arena
+<p align="center">
+  <a href="https://magicinspector.com"><img src="https://github.com/user-attachments/assets/c08ab325-cdd9-4dd9-8ede-df385960f2c1" alt="Cover"></a>
+</p>
+
+<p align="center">
+    <em>.</em>
+</p>
+
+<p align=center>
+TAIA Arena is a realistic web environment for buiding Testing AI Agents.
+</p>
+
+<p align="center">
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License version">
+</a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Under Active Development-green.svg" alt="Docker Image CI">
+</a>
+</p>
+
+<p align="center">
+.
+</p>
+
+<h3 align="center">
+🌟 Give us some love by starring this repository! 🌟  
+</h3>
+
+<p align="center">
+.
+</p>
+
+
+# How it works
+
+<img alt="How it works" src="https://github.com/user-attachments/assets/ec3c5ec3-da34-488e-a82b-c8f72397e4ce" />
 
 ## Getting Started
 
@@ -61,3 +97,16 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+
+<p align="center">
+.
+</p>
+
+<h3 align="center">
+🌟 Give us some love by starring this repository! 🌟  
+</h3>
+
+<p align="center">
+.
+</p>
